@@ -16,4 +16,13 @@ h1 {
 
 nav ul {
   list-style: none;
+  
+  <style>
+  .center {
+    text-align: center;
+  }
+</style>
+
+<p class="center">This text will be centered</p>
+
  
